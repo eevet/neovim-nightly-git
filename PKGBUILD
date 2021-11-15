@@ -1,9 +1,10 @@
-# Maintainer: Florian Walch <florian+aur@fwalch.com>
+# Maintainer: Thomas Alcala <thomas@lockrmail.com>
+# Contributor: Florian Walch <florian+aur@fwalch.com>
 # Contributor: Florian Hahn <flo@fhahn.com>
 # Contributor: Sven-Hendrik Haase <svenstaro@gmail.com>
 
 pkgname=neovim-git
-pkgver=0.4.0.r2972.g3fbff98cf
+pkgver=0.6.0.dev.581.g8f984dc1f
 pkgrel=1
 pkgdesc='Fork of Vim aiming to improve user experience, plugins, and GUIs.'
 arch=('i686' 'x86_64' 'armv7h' 'armv6h' 'aarch64')
